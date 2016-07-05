@@ -33,3 +33,20 @@
 .clearfix {
 	clear: both;
 }
+
+a {
+	color: #1D1C73;
+}
+
+.hiddeninfo {
+	display: none;
+}
+
+.about {
+	text-decoration: underline;
+}
+
+.about:after {
+	content: "▼ ";
+	font-size: 0.7em;
+}
