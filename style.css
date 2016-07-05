@@ -1,0 +1,35 @@
+.header {
+	top: 0;
+}
+
+.maincolor_bg {
+	background-color: #141414;
+}
+
+.secondarycolor_bg {
+	background-color: #999;
+}
+
+.tertiarycolor_bg {
+	background-color: #414141;
+}
+
+.logo {
+	display: inline-block;
+	width: 50px;
+	height: 80px;
+}
+
+.main {
+	padding: 10px;
+	margin: 20px;
+}
+
+.projectlist {
+	margin-top: 10px;
+	border-top: solid black 2px;
+}
+
+.clearfix {
+	clear: both;
+}
